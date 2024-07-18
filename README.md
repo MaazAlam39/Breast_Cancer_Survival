@@ -1,5 +1,4 @@
-github: https://github.com/SujalNeupane9
-linkedin: https://www.linkedin.com/in/sujal-neupane-2a9a2b210/
+github: https://github.com/MaazAlam39
 
 # Breast-Cancer-Survival-Prediction
 
